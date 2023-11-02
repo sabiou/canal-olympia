@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.godi.canalolymp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.godi.canalolymp"
